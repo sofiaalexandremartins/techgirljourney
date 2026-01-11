@@ -3,10 +3,7 @@
 💻 Tech enthusiast | 📊 Learning Data Analytics | 📈 Sharing my journey  
 
 - 🧠 Self-taught learner, curious about Excel, Power Query & Power BI  
-- 🎥 Creating simple & real content about my learning on [Instagram](https://instagram.com/techgirljourney)  
 - 🌱 Currently focused on **Excel, Data Transformation & Power BI**  
-- 💡 Documenting progress in public to inspire other beginners  
-
 ---
 
 ## 🛠️ Tech & Tools
